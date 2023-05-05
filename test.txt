@@ -1,8 +1,5 @@
 /* ===========================================================
-  CECI EST UN COMMENTAIRE qui prendra fin a la prochaine
-  accolade fermante
-
-  TP1 - ift2030 - automne 2002
+  CECI EST UN COMMENTAIRE
   ============================================================ */
 
 class Factorial {
@@ -20,6 +17,8 @@ class Factorial {
 class Fac {
     public int ComputeFac(int num) {
         int num_aux;
+	int x;
+	555
         if (num < 1) {
             num_aux = 1;
         } else {

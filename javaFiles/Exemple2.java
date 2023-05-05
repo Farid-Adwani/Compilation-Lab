@@ -1,8 +1,5 @@
 /* ===========================================================
-  CECI EST UN COMMENTAIRE qui prendra fin a la prochaine
-  accolade fermante
-
-  TP1 - ift2030 - automne 2002
+  CECI EST UN COMMENTAIRE
   ============================================================ */
 
 class Factorial {
